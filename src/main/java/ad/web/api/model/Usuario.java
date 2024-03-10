@@ -1,4 +1,4 @@
-package dio.web.api.model;
+package ad.web.api.model;
 
 public class Usuario {
     private Integer id;

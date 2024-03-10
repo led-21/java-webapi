@@ -1,4 +1,4 @@
-package dio.web.api;
+package ad.web.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

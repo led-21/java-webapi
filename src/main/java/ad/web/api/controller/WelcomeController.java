@@ -1,4 +1,4 @@
-package dio.web.api.controller;
+package ad.web.api.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

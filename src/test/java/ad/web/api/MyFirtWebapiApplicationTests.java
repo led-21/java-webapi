@@ -1,4 +1,4 @@
-package dio.web.api;
+package ad.web.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

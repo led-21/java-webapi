@@ -1,9 +1,8 @@
-package dio.web.api.controller;
+package ad.web.api.controller;
 
-import dio.web.api.model.Usuario;
-import dio.web.api.repository.UserRepository;
+import ad.web.api.model.Usuario;
+import ad.web.api.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
